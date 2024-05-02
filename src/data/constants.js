@@ -230,7 +230,7 @@ export const Bio = {
       description:
         " A Todo app built with React that allows users to efficiently manage tasks with features like task creation, deletion, and status tracking in a user-friendly interface.",
       image:
-        "/todo.png",
+        "https://imgs.search.brave.com/LC_JWKbfGPUxQCEOxQ_27K8aaej7v_Eq2RsPuaDvtJ8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jbGlj/a3VwLmNvbS9ibG9n/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzAxL3RvLWRvLWxp/c3QtYXBwcy5wbmc",
       tags: ["React Js", "Local Storage", "JavaScript", "Component Lifecycle", "Node JS"],
       category: "web app",
       github: "https://github.com/Salmanfarish01/To-do-List",
@@ -242,7 +242,7 @@ export const Bio = {
       description:
         "A weather app leveraging APIs to provide real-time weather forecasts, offering users current conditions and extended forecasts with location-based accuracy.",
       image:
-        "/weather.png",
+        "https://imgs.search.brave.com/uUiPIZNlAK7odiOPD_mDeMkc7aCEjhulSYKDgvwv-ic/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzgz/LzAzLzM3ODMwMzRk/MWVjZWEzN2FhNGUx/NzEzODJlZjViMDE3/LmpwZw",
       tags: ["JavaScript" ,"API", "Node JS"],
       category: "web app",
       github: "https://github.com/Salmanfarish01/WeatherApp",
@@ -254,7 +254,7 @@ export const Bio = {
       description:
         "An elegant React login form designed with HTML, styled with CSS, and powered by JavaScript. Seamlessly authenticate users with a sleek interface and intuitive functionality, making login experiences effortless and secure.",
       image:
-        "/login.png",
+        "https://imgs.search.brave.com/5zZXilb0MQDjgOlfwBl4GyUjCN8-0rw3DXH5ThgrfYQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdXBl/cnRva2Vucy5jb20v/c3RhdGljL2RjZTQ4/NmJlZDRkMDM0ZDg3/MzAyODRhYjZjMTZj/NzE3LzBhNDdlL2Zp/bmFsLXNpZ24taW4u/cG5n",
       tags: ["React Js", "HTML", "CSS", "JavaScript"],
       category: "web app",
       github: "https://github.com/Salmanfarish01/login_page_React",
