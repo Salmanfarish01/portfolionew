@@ -223,9 +223,20 @@ export const Bio = {
   ];
   
   export const projects = [
-  
     {
       id: 1,
+      title: "Shopping Cart",
+      description:
+        " The React cart page web application provides users with a seamless shopping experience, allowing them to view, manage, and purchase items in their online cart efficiently through an intuitive and visually appealing interface built with React.js.",
+      image:
+        "https://imgs.search.brave.com/QQql_yVSoptPU5cRjZoPTK8y8r9m47tW8ooYZCx-j9I/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90aGVy/aWNocG9zdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDEvUmVhY3Rqcy1F/Y29tbWVyY2UtU2l0/ZS1DYXJ0LVBhZ2Ut/VGVtcGxhdGUtRnJl/ZS5wbmc",
+      tags: ["React Js", "Axios", "JavaScript", "UseState","UseEfeect","React-router", "Node JS"],
+      category: "web app",
+      github: "https://github.com/Salmanfarish01/shopping-cart",
+      webapp: "https://salmanfarish01.github.io/shopping-cart/",
+    },
+    {
+      id: 2,
       title: "Todo Web App",
       description:
         " A Todo app built with React that allows users to efficiently manage tasks with features like task creation, deletion, and status tracking in a user-friendly interface.",
@@ -237,7 +248,7 @@ export const Bio = {
       webapp: "https://salmanfarish01.github.io/To-do-List/",
     },
     {
-      id: 2,
+      id: 3,
       title: "Weather App",
       description:
         "A weather app leveraging APIs to provide real-time weather forecasts, offering users current conditions and extended forecasts with location-based accuracy.",
@@ -249,7 +260,7 @@ export const Bio = {
       webapp: "https://salmanfarish01.github.io/WeatherApp/",
     },
     {
-      id: 3,
+      id: 4,
       title: "React Login Form",
       description:
         "An elegant React login form designed with HTML, styled with CSS, and powered by JavaScript. Seamlessly authenticate users with a sleek interface and intuitive functionality, making login experiences effortless and secure.",
